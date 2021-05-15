@@ -1,0 +1,13 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  display: grid;
+  grid-template-columns: auto auto auto ;
+  grid-gap: 10px;
+
+
+
+
+
+
+}
